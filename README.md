@@ -5,7 +5,7 @@ Hello World App - Pre-work
 A app with a button that will change the color of the text that is shown.
 
 ### App Walk-though
-<img src="https://imgur.com/znK9QRf" width=200><br>
+<img src="https://i.imgur.com/znK9QRf.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
